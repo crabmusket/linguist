@@ -2905,6 +2905,17 @@ TOML:
   tm_scope: source.toml
   ace_mode: toml
 
+TorqueScript:
+  type: programming
+  ace_mode: csharp
+  tm_scope: source.cs
+  search_term: torquescript
+  color: "#178600"
+  extensions:
+  - .cs
+  - .mis
+  - .gui
+
 TXL:
   type: programming
   extensions:
